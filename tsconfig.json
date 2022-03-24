@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "baseUrl": "./",
+    "paths": {
+      "@resolvers": ["resolvers/"],
+      "@typeDefs": ["typeDefs/"]
+    }
+  }
+}
